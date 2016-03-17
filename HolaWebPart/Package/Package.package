@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="3a2fef13-fef5-4f2a-876b-97b50239bc39" solutionId="3a2fef13-fef5-4f2a-876b-97b50239bc39" resetWebServer="false" sharePointProductVersion="15.0" name="HolaWebPart" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="8ca86357-da24-4700-a018-e689fe717ca9" />
+  </features>
+</package>

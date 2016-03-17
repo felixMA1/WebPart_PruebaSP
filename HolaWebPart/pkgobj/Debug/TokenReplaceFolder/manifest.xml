@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="3a2fef13-fef5-4f2a-876b-97b50239bc39" SharePointProductVersion="15.0">
+  <Assemblies>
+    <Assembly Location="HolaWebPart.dll" DeploymentTarget="GlobalAssemblyCache">
+      <SafeControls>
+        <SafeControl Assembly="HolaWebPart, Version=1.0.0.0, Culture=neutral, PublicKeyToken=47e607085fdd1a7a" Namespace="HolaWebPart.VisualWebPart1" TypeName="*" />
+      </SafeControls>
+    </Assembly>
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="CONTROLTEMPLATES\HolaWebPart\VisualWebPart1\VisualWebPart1UserControl.ascx" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="HolaWebPart_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
